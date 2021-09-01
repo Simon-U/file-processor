@@ -1,0 +1,29 @@
+Position;Number_positions;Short_description;Numeric;Needed;to_be_added;leading_tailing
+1;1;Blank;False;False;False;0
+2;2;0;True;False;False;0
+4;1;Blank;False;False;False;0
+5;23;0;True;False;False;0
+28;1;Record Type;True;True;False;0
+29;2;Data Type;True;True;False;0
+31;1;Blank;False;False;False;0
+32;3;Report Type;False;True;False;0
+35;1;Blank;False;False;False;0
+36;7;Latest Month of Report  MM/YYYY;False;True;True;0
+43;1;Blank;False;False;False;0
+44;2;File Type;False;True;False;0
+46;1;Hierarchy Identification;False;True;False;0
+47;5;Client No ;True;True;False;2
+52;1;Blank;False;False;False;0
+53;24;Client Name;False;True;False;3
+77;1;CU Type (blank or C, Z or D);False;True;False;0
+78;2;Blank;False;False;False;0
+80;3;Currency;False;True;False;0
+83;1;Blank;False;False;False;0
+84;9;Report Period;False;True;True;0
+93;6;Blank;False;False;False;0
+99;10;Count of Data Records;True;True;False;1
+109;6;Count of Definition Records;True;True;False;1
+115;3;Price Type;False;True;False;0
+118;2;Count of  Level;True;True;False;1
+120;3;Identification for Special Studies;False;True;False;0
+123;18;Blank;False;False;False;0

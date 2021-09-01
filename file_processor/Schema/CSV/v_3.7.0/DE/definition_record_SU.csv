@@ -1,0 +1,15 @@
+Stelle;Anzahl_Stellen;Kurzbeschreibung;Zahl;Benoetigt;to_be_dropped;to_be_merged_on;leading_tailing
+1;5;Marktcode;False;True;False;True;2
+6;1;0;True;False;False;False;0
+7;10;Produktcode;True;True;False;True;1
+17;11;0;True;False;False;False;0
+28;1;Satztyp;True;True;True;False;0
+29;2;Datentyp;True;True;True;False;0
+31;51;Summenname;False;True;False;False;3
+82;3;Blank;False;False;False;False;0
+85;3;Blank;False;False;False;False;0
+88;18;Blank;False;False;False;False;0
+106;2;Product Registation Code;True;True;False;False;0
+108;8;Nummer;True;True;False;False;2
+116;2;Check Digits PPN;True;True;False;False;0
+118;23;Blank;False;False;False;False;0

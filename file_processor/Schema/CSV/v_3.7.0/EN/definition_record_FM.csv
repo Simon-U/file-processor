@@ -1,0 +1,18 @@
+Position;Number_positions;Short_description;Numeric;Needed;to_be_dropped;to_be_merged_on;leading_tailing
+1;5;ATC Code;False;True;False;True;0
+6;8;Product Code;True;True;False;True;1
+14;3;Pack Code;True;True;False;True;1
+17;11;0;True;False;False;False;0
+28;1;Record Type;True;True;True;False;0
+29;2;Data Type;True;True;True;False;0
+31;18;Product Name;False;True;False;False;3
+49;12;Form of Application;False;True;False;False;3
+61;12;Strength;False;True;False;False;3
+73;5;Pack Size;True;True;False;False;3
+78;7;Volume / Weight;False;True;False;False;3
+85;3;Manufacturer Id;False;True;False;False;0
+88;18;Manufacturer Name;False;True;False;False;3
+106;2;Product Registation Code;True;True;False;False;0
+108;8;IFA-No (PZN);True;True;False;False;1
+116;2;Check Digits PPN;False;True;False;False;0
+118;23;Blank;False;False;False;False;0

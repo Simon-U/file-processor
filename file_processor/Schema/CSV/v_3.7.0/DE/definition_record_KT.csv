@@ -1,0 +1,14 @@
+Stelle;Anzahl_Stellen;Kurzbeschreibung;Zahl;Benoetigt;to_be_dropped;to_be_merged_on;leading_tailing
+1;5;Gruppencode;False;True;False;True;3
+6;11;0;True;False;False;False;0
+17;11;0;True;False;False;False;0
+28;1;Satztyp;True;True;True;False;0
+29;2;Datentyp;True;True;True;False;0
+31;30;TC-Bezeichnung;False;True;False;False;3
+61;12;Blank;False;False;False;False;0
+73;5;Blank;False;False;False;False;0
+78;7;Blank;False;False;False;False;0
+85;3;Blank;False;False;False;False;0
+88;18;Blank;False;False;False;False;0
+106;7;Blank;False;False;False;False;0
+113;28;Blank;False;False;False;False;0

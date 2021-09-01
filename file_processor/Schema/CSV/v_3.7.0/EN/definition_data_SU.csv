@@ -1,0 +1,19 @@
+Position;Number_positions;Short_description;Numeric;Needed;to_be_dropped;leading_tailing
+1;5;Pseudo Market Code;False;True;False;0
+6;1;0;True;False;False;0
+7;10;Pseudo Product Code;True;True;False;1
+17;2;Geolevel;True;True;False;3
+19;9;Geocode;False;True;False;3
+28;1;Record Type;True;True;True;0
+29;2;Data Type;True;True;False;0
+31;3;Identification for Special Studies;False;True;False;0
+34;7;Blank;False;False;False;0
+41;1;Sign for Units;False;True;True;0
+42;14;Units;True;True;False;4
+56;1;Sign for Values;False;True;True;0
+57;14;Values (in Euro Cent);True;True;False;4
+71;1;Sign for Counting Units;False;True;True;0
+72;17;Counting Units;False;True;False;4
+89;18;Blank ;False;False;False;0
+107;18;Blank ;False;False;False;0
+125;16;Blank ;False;False;False;0

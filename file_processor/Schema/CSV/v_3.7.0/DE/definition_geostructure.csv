@@ -1,0 +1,15 @@
+Stelle;Anzahl_Stellen;Kurzbeschreibung;Zahl;Benoetigt;to_be_dropped;to_be_merged_on;leading_tailing
+1;1;Blank;False;False;False;False;0
+2;2;0;True;False;False;False;0
+4;1;Blank;False;False;False;False;0
+5;1;0;True;False;False;False;0
+6;11;0;True;False;False;False;0
+17;2;Geolevel;True;True;False;True;1
+19;9;Geocode;False;True;False;True;3
+28;1;Satztyp;True;True;True;False;0
+29;2;Datentyp;True;True;True;False;0
+31;50;Geo Langname;False;True;False;False;3
+81;25;Levelbeschreibung;False;True;False;False;3
+106;9;Geocode_hoehere_ebene;False;True;False;False;3
+115;2;Geolevel_hoehere_ebene;True;True;False;False;1
+117;24;Blank;False;False;False;False;0

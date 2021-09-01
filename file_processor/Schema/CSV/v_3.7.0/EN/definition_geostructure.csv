@@ -1,0 +1,15 @@
+Position;Number_positions;Short_description;Numeric;Needed;to_be_dropped;to_be_merged_on;leading_tailing
+1;1;Blank;False;False;False;False;0
+2;2;0;True;False;False;False;0
+4;1;Blank;False;False;False;False;0
+5;1;0;True;False;False;False;0
+6;11;0;True;False;False;False;0
+17;2;Geolevel;True;True;False;True;1
+19;9;Geocode;False;True;False;True;3
+28;1;Record Type;True;True;True;False;0
+29;2;Data Type;True;True;True;False;0
+31;50;Geo Description;False;True;False;False;3
+81;25;Level Description;False;True;False;False;3
+106;9;Geocode of next higher level;False;True;False;False;3
+115;2;Geolevel of next higher level;True;True;False;False;1
+117;24;Blank;False;False;False;False;0

@@ -1,0 +1,18 @@
+Stelle;Anzahl_Stellen;Kurzbeschreibung;Zahl;Benoetigt;to_be_dropped;to_be_merged_on;leading_tailing
+1;5;Gruppencode;False;True;False;True;0
+6;8;Produktcode;True;True;False;True;1
+14;3;Code;True;True;False;True;1
+17;11;0;True;False;False;False;0
+28;1;Satztyp;True;True;True;False;0
+29;2;Datentyp;True;True;True;False;0
+31;18;Productname;False;True;False;False;3
+49;12;Darreichungsform;False;True;False;False;3
+61;12;Wirkstaerke;False;True;False;False;3
+73;5;Packungsgroesse;True;True;False;False;3
+78;7;Packungsvolumen;False;True;False;False;3
+85;3;Herstellerkuerzel;False;True;False;False;0
+88;18;Hersteller-Langbeschreibung;False;True;False;False;3
+106;2;Product Registation Code;True;True;False;False;0
+108;8;IFA-Nummer (PZN);True;True;False;False;1
+116;2;Check Digits PPN;True;True;False;False;0
+118;23;Blank;False;False;False;False;0

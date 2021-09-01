@@ -1,0 +1,29 @@
+Stelle;Anzahl_Stellen;Kurzbeschreibung;Zahl;Benoetigt;to_be_added;leading_tailing
+1;1;Blank;False;False;False;0
+2;2;0;True;False;False;0
+4;1;Blank;False;False;False;0
+5;23;0;True;False;False;0
+28;1;Satztyp;True;True;False;0
+29;2;Datentyp;True;True;False;0
+31;1;Blank;False;False;False;0
+32;3;Berichtsart;False;True;False;0
+35;1;Blank;False;False;False;0
+36;7;Letzter Berichtsmonat  MM/JJJJ;False;True;True;0
+43;1;Blank;False;False;False;0
+44;2;Datei-Typ;False;True;False;0
+46;1;Hierarchie-Kennung;False;True;False;0
+47;5;Kundennummer;True;True;False;2
+52;1;Blank;False;False;False;0
+53;24;Kundenname;False;True;False;3
+77;1;CU Type (blank oder C, Z oder D );False;True;False;0
+78;2;Blank;False;False;False;0
+80;3;Waehrungseinheit;False;True;False;0
+83;1;Blank;False;False;False;0
+84;9;Berichtszeitraum;False;True;True;0
+93;6;Blank;False;False;False;0
+99;10;Anzahl Datensaetze;True;True;False;1
+109;6;Anzahl Definitionssaetze;True;True;False;1
+115;3;Preisdefinition;False;True;False;0
+118;2;Anzahl Level;True;True;False;1
+120;3;Kennung fuer Sonderstudien;False;True;False;0
+123;18;Blank;False;False;False;0
