@@ -5,7 +5,7 @@ This package comes with three functions to process predefined files.
 Following, these three things will be explained:
 1. How to get started
 2. Three functions
-
+3. Set up of the structure files
 
 ## 1. How to get started
 
